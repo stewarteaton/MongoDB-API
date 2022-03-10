@@ -1,0 +1,8 @@
+Server/node_modules
+
+react-apollo-graphql/.env
+react-apollo-graphql/src/.env
+
+Server/.env
+
+.DS_Store
