@@ -24,7 +24,7 @@ Create API following the requirements<a href='https://github.com/Trend-io/backEn
 <li>Briefly set up GraphQL connection via Apollo client with React to test alternative to REST API</li>
 <li>If pursued, we could host the graphql schema and backend functions within MongoDB Realm instead of locally running and deploying a server.</li>
 <li>Could also integrate triggers and third party APIs with GraphQL all under one accessible endpoint.</li>
-<ul>
+</ul>
 <br>
 <br>
 
